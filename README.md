@@ -34,18 +34,18 @@ A simple and effective Python command-line application that measures your typing
 
 ## How to Run
 
-1. **Clone this repository**:
+1. **Clone this repository** :
    ```bash
    git clone https://github.com/YourUsername/typing-speed-tester.git
 
    ---
 
-2. **Navigate to the folder:
+2. **Navigate to the folder** :
 ```
 cd typing-speed-tester
 
 ```
-3. **Run the application:
+3. **Run the application** :
 ```
 python main.py
 
@@ -54,7 +54,7 @@ python main.py
 
 ## Sample Output
 
-*-----Welcome to the Python Typing Speed Tester!-----*
+-----Welcome to the Python Typing Speed Tester!-----
 
 (Press ENTER to begin the test...)
 
@@ -66,12 +66,13 @@ Artificial Intelligence is transforming the world.
 
 Start Typing : Artifical Intelligence is transformng the word.
 
-*----- Test Results -----*
+----- Test Results -----
 Time Taken: 12.37 seconds
 Words Per Minute (WPM): 38.76
 Accuracy: 60.0%
 
 Thanks for using the Typing Speed Tester. Keep practicing!
+
 ---
 
 ## Author
@@ -81,7 +82,7 @@ GitHub: [@Sandesh-008](https://github.com/Sandesh-008)
 
 ---
 
-##License
+## License
 
 This project is open source and available under the MIT License.
 
