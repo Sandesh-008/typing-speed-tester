@@ -53,7 +53,7 @@ python main.py
 ---
 
 ## Sample Output
-
+```
 -----Welcome to the Python Typing Speed Tester!-----
 
 (Press ENTER to begin the test...)
@@ -72,7 +72,7 @@ Words Per Minute (WPM): 38.76
 Accuracy: 60.0%
 
 Thanks for using the Typing Speed Tester. Keep practicing!
-
+```
 ---
 
 ## Author
